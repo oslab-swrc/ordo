@@ -1,4 +1,5 @@
 #!/usr/bin/env python2
+# SPDX-License-Identifier: Apache-2.0
 
 import os
 import subprocess
